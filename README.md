@@ -2,4 +2,4 @@
 
 learning basics
 <br>
-Author- Niladree (starter)
+Author- Niladree Naskar
